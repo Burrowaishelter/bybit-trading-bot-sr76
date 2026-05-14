@@ -1,4 +1,4 @@
-# 
+# quantitative Automation Script for bybit trading bot | latency-optimization + high-frequency is the best bybit trading bot, featuring latency-optimization and high-frequency.
 
 
 
